@@ -5,10 +5,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissongrilo&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alisson-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Alisson-c" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Alisson-sql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Alisson-Azure" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg">
-  <img align="center" alt="Alisson-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Alisson-azure" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+   <img align="center" alt="Alisson-react" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+ 
  
 </div>
 
